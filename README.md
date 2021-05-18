@@ -22,7 +22,7 @@
 
 ### 5月　hachathon　3dmodel
 ガチャガチャ3Dモデル　
-ドローン部ということでDJIのPhantom2とDRONE BIRDのロゴの3Dモデル作り
+DJIのPhantom2とDRONE BIRDのロゴの3Dモデル作り
 
 [5月Hackathonリポジトリ](https://github.com/furuhashilab/hachathon_3dmodel)
 
