@@ -16,7 +16,18 @@
 ## 個人研究
 ・裾野市の地番図をデジタル化するために課題となる地番と住所の一致割合を求める
 
-[2020年度古橋ゼミ論用レポジトリ](https://github.com/furuhashilab/2020gsc_Rantsuyama)
+[2020年度古橋ゼミ論用リポジトリ](https://github.com/furuhashilab/2020gsc_Rantsuyama)
+
+## 2021年度Hackathon
+
+### 5月　hachathon　3dmodel
+ガチャガチャ3Dモデル　
+ドローン部ということでDJIのPhantom2とDRONE BIRDのロゴの3Dモデル作り
+
+[5月Hackathonリポジトリ](https://github.com/furuhashilab/hachathon_3dmodel)
+[GoogleDriveデータ置き場](https://drive.google.com/drive/folders/1WymJZMwr82jJ6PuPcLH_DGp6T_Lw9nFI?usp=sharing)
+
+
 
 
 
